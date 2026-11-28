@@ -1,4 +1,5 @@
 .micropico
 .vscode/
 .venv/
+.bin/
 *.mpy
